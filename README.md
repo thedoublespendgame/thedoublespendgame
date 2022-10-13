@@ -13,13 +13,19 @@ There is a [significant gap in financial literacy between black and white commun
 
 This idea was inspired by the work of the [Krypto for Kids project in Barbados](https://blockchainonthebeach.com/) to educate students on aspects of financial and technical literacy. It aims to create scalable education that can be translated and used throughout the world in schools, colleges, and adult education establishments. Everything will be released under a Creative Commons license and is intended to be a complete standalone lesson plan on its own, or adapted to be a part of a wider curriculum.
 
+Someone who is financially literate will not only help their careers, salary, and overall quality of life, but will also become active participants in their local, and even, global economy. In a study conducted by Carlin and Robinson (2012) students who were given a 19-hour course based on the financial literacy curriculum were more frugal, paid off debts faster, relied less on credit financing, compared to their peers. Financial literacy goes beyond the basic understanding of money. By educating our young people in financial literacy in the modern world, we create young people who become intrinsically motivated to build strong financial foundations through both their academic and personal pursuits. 
+
+Interactive and real-world scenarios being led through enquiry, are often the most engaging and impactful lessons. Being able to easily access pre-made lesson plans, resources, tools, or further instructions is a vital tool for teachers to be able to learn this knowledge themselves and to teach a complex and often intimidating topic.
+
+Through having these resources educators will be able to focus on the individual differentiation and inclusion of their classroom rather than focusing on the logistics of developing and planning such lessons. To educate our young people, we must first educate ourselves, with pre-made resources and lesson plans, teachers can have (and create) a fun, engaging and positive learning experience that can be easily adapted to begin erasing the lines between those that have financial literacy, and those that do not. 
+
 The games use an intentionally low-tech approach of pen and paper in order to maximise the potential audience globally. They can also be translated to other languages and/or adapted to different cultural specifics. 
 
 The games involve explaining and simulating simplified versions of common blockchains, involving students interacting with each other and playing roles (e.g. miner, banker, validator). e.g. for PoW, each student is given a sudoku puzzle to solve, the first to solve it becomes the "miner" for that block. The other students then write transactions on cards and give them to the miner. For XRP LCP, a group of students are nominated to be a UNL and get to vote on transaction ordering.
 
 The deliverable of the project will be a website with all the downloadable resources that can be printed or drawn by hand:
 
-- A lesson plan for various length lessons (30, 45, 60 minutes)
+- A lesson plan for various length lessons (30, 60 minutes)
 - Background information on blockchains, payment systems, cryptocurrencies
 - Cards and worksheets used in the play of the games
 - Rules for each game
